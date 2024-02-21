@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samthecoder92
 - 👀 I’m interested in Artificial intelligence and Data Analytics
-- 🌱 I’m currently learning Python, R, and C#. I am brushing up on C and C++, Java, HTML, CSS and Javascript.
+- 🌱 I’m currently learning Python, R, and C#. I am brushing up on C and C++, Java.
 - 💞️ I’m looking to collaborate on A.I. projects.
 - 📫 How to reach me s.a.e.barry@hotmail.com
 
